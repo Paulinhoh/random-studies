@@ -1,5 +1,5 @@
 """
-    Tipos primitivos:
+    Operações Aritmeticas:
     +   -> soma
     -   -> subtração
     *   -> multiplicação
