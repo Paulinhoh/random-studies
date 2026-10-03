@@ -1,0 +1,20 @@
+## pycache
+__pycache__/
+*.py[cod]
+
+##
+.pytest_cache
+.ruff_cache
+
+# Cobertura de testes
+.coverage
+htmlcov/
+
+# idea
+.vscode
+.idea
+
+# .env
+.env
+
+.venv/
